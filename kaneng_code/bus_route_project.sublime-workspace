@@ -1,0 +1,1562 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bes",
+				"bestRoute"
+			],
+			[
+				"cost",
+				"costMatrix"
+			],
+			[
+				"calc",
+				"calcPriority"
+			],
+			[
+				"ruote",
+				"routeToPush"
+			],
+			[
+				"st",
+				"stopSequence"
+			],
+			[
+				"s",
+				"stopSequence"
+			],
+			[
+				"route",
+				"routeToPush"
+			],
+			[
+				"r",
+				"routeToPush"
+			],
+			[
+				"lo",
+				"lowestCost"
+			],
+			[
+				"p",
+				"priority"
+			],
+			[
+				"time",
+				"timeMatrix"
+			],
+			[
+				"di",
+				"distanceWeight"
+			],
+			[
+				"dista",
+				"distanceMatrix"
+			],
+			[
+				"disa",
+				"distanceMatrix"
+			],
+			[
+				"stop",
+				"stopCount"
+			],
+			[
+				"vtx",
+				"vtxList"
+			],
+			[
+				"edge",
+				"edgeMatrix"
+			],
+			[
+				"pTo",
+				"pToVtx"
+			],
+			[
+				"pFrom",
+				"pFromVtx"
+			],
+			[
+				"coun",
+				"countones"
+			],
+			[
+				"max",
+				"maxzeros"
+			],
+			[
+				"f",
+				"foundOnes"
+			],
+			[
+				"foun",
+				"foundZeros"
+			],
+			[
+				"found",
+				"foundZeros"
+			],
+			[
+				"lef",
+				"leftDepth"
+			],
+			[
+				"ri",
+				"rightDepht"
+			],
+			[
+				"head",
+				"head"
+			],
+			[
+				"wo",
+				"workercount"
+			],
+			[
+				"ma",
+				"maxrescue"
+			],
+			[
+				"re",
+				"rescuedcount"
+			],
+			[
+				"se",
+				"sequence"
+			],
+			[
+				"pr",
+				"printing"
+			],
+			[
+				"prn",
+				"printCheck"
+			],
+			[
+				"c",
+				"curwritecount"
+			],
+			[
+				"writer",
+				"writerindex"
+			],
+			[
+				"read",
+				"readercount"
+			],
+			[
+				"wri",
+				"writercount"
+			],
+			[
+				"dun",
+				"exploreDungeon"
+			],
+			[
+				"count",
+				"countArray"
+			],
+			[
+				"str",
+				"stringInput"
+			],
+			[
+				"tep",
+				"tempIndex"
+			],
+			[
+				"temp",
+				"tempIndex"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"pri",
+				"printTree"
+			],
+			[
+				"deb",
+				"debouncingCount"
+			],
+			[
+				"TU",
+				"TURN_START"
+			],
+			[
+				"chang",
+				"changeCol"
+			],
+			[
+				"change",
+				"changeRow"
+			],
+			[
+				"lifte",
+				"liftedCol"
+			],
+			[
+				"chan",
+				"changeRow"
+			],
+			[
+				"lif",
+				"liftedRow"
+			],
+			[
+				"ga",
+				"gameStatus"
+			],
+			[
+				"core",
+				"correctState"
+			],
+			[
+				"game",
+				"gameStatusString"
+			],
+			[
+				"led",
+				"ledBoard"
+			],
+			[
+				"byt",
+				"byteTable"
+			],
+			[
+				"tem",
+				"tempRowData"
+			],
+			[
+				"shif",
+				"shiftOut"
+			],
+			[
+				"piec",
+				"pieceBoard"
+			],
+			[
+				"turn",
+				"turnPlayer"
+			],
+			[
+				"correc",
+				"correctState"
+			],
+			[
+				"ea",
+				"eatenCol"
+			],
+			[
+				"piece",
+				"pieceBoard"
+			],
+			[
+				"tru",
+				"turnPlayer"
+			],
+			[
+				"TURN",
+				"TURN_START"
+			],
+			[
+				"tog",
+				"toggleError"
+			],
+			[
+				"eaten",
+				"eatenRow"
+			],
+			[
+				"chage",
+				"changeRow"
+			],
+			[
+				"chec",
+				"checkChange"
+			],
+			[
+				"return",
+				"returnStatus"
+			],
+			[
+				"ch",
+				"changeRow"
+			],
+			[
+				"chagne",
+				"changeCol"
+			],
+			[
+				"check",
+				"checkCanMove"
+			],
+			[
+				"lift",
+				"liftedCol"
+			],
+			[
+				"lastS",
+				"lastStatus"
+			],
+			[
+				"ERROR_A",
+				"ERROR_AT_TURN_START"
+			],
+			[
+				"cor",
+				"correctState"
+			],
+			[
+				"boa",
+				"board2"
+			],
+			[
+				"print",
+				"printPieceBoard"
+			],
+			[
+				"del",
+				"deltaRow"
+			],
+			[
+				"displ",
+				"displayMoves"
+			],
+			[
+				"tmp",
+				"tempCol"
+			],
+			[
+				"WE",
+				"WE"
+			],
+			[
+				"pie",
+				"pieceBoard"
+			],
+			[
+				"PIE",
+				"pieceType"
+			],
+			[
+				"te",
+				"tempRow"
+			],
+			[
+				"che",
+				"checkChange"
+			],
+			[
+				"bit",
+				"bitRead"
+			],
+			[
+				"data",
+				"dataRead"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"ERR",
+				"ERROR_ILLEGALLY_ADDED"
+			],
+			[
+				"da",
+				"dataRead"
+			],
+			[
+				"tax",
+				"taxiCount"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "costMatrix.h",
+			"settings":
+			{
+				"buffer_size": 362,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "costMatrix.c",
+			"settings":
+			{
+				"buffer_size": 1201,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routing.c",
+			"settings":
+			{
+				"buffer_size": 2089,
+				"line_ending": "Windows",
+				"name": "#i"
+			}
+		},
+		{
+			"file": "routing.h",
+			"settings":
+			{
+				"buffer_size": 194,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dataStructures.h",
+			"settings":
+			{
+				"buffer_size": 182,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "route.h",
+			"settings":
+			{
+				"buffer_size": 220,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "route.c",
+			"settings":
+			{
+				"buffer_size": 308,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "/*\n *  networkTester.c \n *\n *  Driver program for testing/exploring graphs\n *\n *  Created by Sally Goldin, 1 February 2012 for CPE 113\n *  Modified 18 March 2013 to remove Prim's option\n *\n *  modified by Oras Phongpanangam 58070503439 Section D for lab 9 assignment\n */\n\n#include <stdio.h>\n#include <stdlib.h>\n#include <string.h>\n#include \"abstractNetwork.h\"\n#include \"networkBuilder.h\"\n\nint getMenuOption();\n\n/* Loop asking for actions until the user chooses to exit */\nint main(int argc, char *argv[])\n{\n    int maxVertices = 0;\n    int bDirected = 0;\n    char input[64];\n    char keystring1[64] = \"\";\n    char keystring2[64] = \"\";\n    char* removedString = NULL;\n    char* newString = NULL;\n    char* key = NULL;\n    int retval = 0;\n    int weight = 0;\n    int i = 0;\n    int choice = 0;\n\n    if (argc > 1)   /* assume that they gave a graph file name */\n       {\n       fprintf(stdout,\"Found argument %s on command line\\n\",\n	       argv[1]);\n       memset(input,0,sizeof(input));\n       printf(\"Build network from this file (Y or N)? \");\n       fgets(input,sizeof(input),stdin);\n       if ((input[0] == 'Y') || (input[0] == 'y'))\n	  {\n          retval = readNetworkDefinition(argv[1], 1);\n	  }\n       }\n\n    choice = getMenuOption();\n    while (choice != 10)\n    {\n        memset(keystring1,0,sizeof(keystring1));\n        memset(keystring2,0,sizeof(keystring2));\n        newString = key = NULL;\n	weight = -1;\n	switch (choice)\n	{\n	    case 1:  /* create the graph */ \n                printf(\"Enter max number of vertices: \");\n		fgets(input,sizeof(input),stdin);\n		sscanf(input,\"%d\",&maxVertices);\n		if (maxVertices <= 0)\n		   {\n		   printf(\">>> Error! number of vertices should be positive\\n\");\n		   }\n                else\n		   {\n                   printf(\"Directed graph (Y/N)? \");\n		   fgets(input,sizeof(input),stdin);\n                   if ((input[0] == 'Y') || (input[0] == 'y'))\n                       bDirected = 1;\n		   else\n                       bDirected = 0;\n                   clearGraph();\n                   if (!initGraph(maxVertices, bDirected))\n		      {\n		      printf(\">>> Error! Cannot initialize graph\\n\");\n		      }\n		   }\n		break;\n	    case 2:  /* add vertex */\n                memset(input,0,sizeof(input));\n		printf(\"Enter key value for vertex: \");\n		fgets(input,sizeof(input),stdin);\n		input[strlen(input) - 1] = '\\0';  \n		sscanf(input,\"%s\",keystring1);  \n		key = strdup(keystring1);\n                memset(input,0,sizeof(input));\n		printf(\"Enter data for vertex: \");\n		fgets(input,sizeof(input),stdin);\n		input[strlen(input) - 1] = '\\0';  \n		newString = strdup(input);\n                if ((strlen(key) == 0) || (strlen(newString) == 0))\n		   {\n		   printf(\"Input error - key or data empty!\\n\");\n		   free(key);\n		   free(newString);\n		   }\n                else\n		   { \n		   retval = addVertex(key,newString);\n		   if (retval == 1) \n		      {\n		      printf(\"Vertex |%s| added\\n\",key);\n		      }\n		   else if (retval < 0)\n		      {\n		      printf(\">>> Vertex with key |%s| already exists in graph\\n\", key);\n		      }\n		   else \n		      {\n		      printf(\">>> Memory allocation error or graph full!\\n\");\n		      }\n		   }\n		break;\n	    case 3: /* add edge */\n                memset(input,0,sizeof(input));\n		printf(\"Enter key value for 'From' vertex: \");\n		fgets(input,sizeof(input),stdin);\n		input[strlen(input) - 1] = '\\0';  \n		sscanf(input,\"%s\",keystring1);  \n                memset(input,0,sizeof(input));\n		printf(\"Enter key value for 'To' vertex: \");\n		fgets(input,sizeof(input),stdin);\n		input[strlen(input) - 1] = '\\0';  \n		sscanf(input,\"%s\",keystring2);\n		printf(\"Enter weight for this edge: \");\n		fgets(input,sizeof(input),stdin);\n		sscanf(input,\"%d\",&weight);\n                if ((strlen(keystring1) == 0) || (strlen(keystring2) == 0))\n		   {\n		   printf(\"Input error - a key is empty!\\n\");\n		   }\n		else if (strcmp(keystring1,keystring2) == 0)\n		   {\n		   printf(\"Input error - 'From' must be different from 'To'!\\n\");\n		   }\n                else if (weight < 0)\n 		   {\n		   printf(\"Input error - weight must not be negative!\\n\");\n		   }\n                else\n		   {\n		   retval = addEdge(keystring1,keystring2, weight);  \n		   if (retval == 1) \n		       {\n		       printf(\"Added edge from |%s| to |%s| with weight %d\\n\",\n				  keystring1,keystring2, weight);\n		       }\n		       else if (retval < 0)\n		       {\n		       printf(\">>> Edge from |%s| to |%s| already exists!\\n\",\n				  keystring1,keystring2);\n		       }\n		       else \n		       {\n		       printf(\">>> Vertex doesn't exist or memory allocation error!\\n\");\n		       }\n		   }\n		break;\n   	    case 4:   /* remove vertex */\n                memset(input,0,sizeof(input));\n		printf(\"Enter key value for vertex to remove: \");\n		fgets(input,sizeof(input),stdin);\n		input[strlen(input) - 1] = '\\0';  \n		sscanf(input,\"%s\",keystring1);  \n                char* returnData = removeVertex(keystring1);\n                if (returnData != NULL)\n		   {\n		   printf(\n                      \"Vertex |%s| held data |%s| - now removed from graph\\n\",\n		      keystring1,returnData);\n		   }\n                else\n		   {\n		   printf(\n		       \">>> Error removing - maybe vertex |%s| didn't exist!\\n\",\n		       keystring1);\n\n		   }\n		break;\n	    case 5:   /* remove edge */\n                memset(input,0,sizeof(input));\n		printf(\"Enter key value for 'From' vertex: \");\n		fgets(input,sizeof(input),stdin);\n		input[strlen(input) - 1] = '\\0';  \n		sscanf(input,\"%s\",keystring1);  \n                memset(input,0,sizeof(input));\n		printf(\"Enter key value for 'To' vertex: \");\n		fgets(input,sizeof(input),stdin);\n		input[strlen(input) - 1] = '\\0';  \n		sscanf(input,\"%s\",keystring2);\n                retval = removeEdge(keystring1,keystring2);  \n                if (retval == 1) \n		   {\n		   printf(\"Removed edge from |%s| to |%s|\\n\",\n			  keystring1,keystring2);\n		   }\n		else \n		   {\n		   printf(\">>> Edge or vertex did not exist!\\n\");\n		   }\n		break;\n	    case 6:   /* get adjacent */\n	        {\n                int count;\n                int weight = 0;\n                char** adjacentKeys = NULL;\n                memset(input,0,sizeof(input));\n		printf(\"Enter key value: \");\n		fgets(input,sizeof(input),stdin);\n		input[strlen(input) - 1] = '\\0';  \n		sscanf(input,\"%s\",keystring1);  \n                adjacentKeys = getAdjacentVertices(keystring1,&count);\n                if (count == 0)\n		   {\n		   printf(\">>> Vertex |%s| has no adjacent vertices\\n\",\n			      keystring1);\n		   }\n                else if (count < 0)\n		   { \n		   printf(\">>> Vertex |%s| does not exist\\n\",\n			      keystring1);\n		   }\n		else\n		   {\n		   int i = 0;\n		   printf(\"The following vertices are incident from |%s|\\n\",\n			  keystring1);\n		   for (i = 0; i < count; i++)\n		      {\n		      printf(\"     %s \",adjacentKeys[i]);\n                      weight = findEdge(keystring1,adjacentKeys[i]);\n                      printf(\" (weight %d)\\n\", weight);\n		      free(adjacentKeys[i]);\n		      }\n		   free(adjacentKeys);\n		   }\n		break;\n		}\n	    case 7:   /* breadth first traversal */\n                memset(input,0,sizeof(input));\n                printf(\"Want breadth first (Y or N, N=depth first)? \");\n		fgets(input,sizeof(input),stdin);\n		if ((input[0] == 'Y') || (input[0] == 'y'))\n		    {\n		    printf(\"Start traversal at what vertex? \");\n		    fgets(input,sizeof(input),stdin);\n		    input[strlen(input) - 1] = '\\0';  \n		    sscanf(input,\"%s\",keystring1);  \n		    retval = printBreadthFirst(keystring1);\n		    if (retval < 0)\n		       { \n		       printf(\">>> Vertex |%s| does not exist\\n\",\n			      keystring1);\n		       }\n		    }\n		else\n		    {\n		    printDepthFirst();\n		    }\n		break;\n		\n	    case 8:   /* do Dijkstra's algorithm to find shortest path */\n	    	printf(\"Input starting vertex's key: \");\n	        fgets(input,sizeof(input),stdin);\n			input[strlen(input) - 1] = '\\0';  \n			sscanf(input,\"%s\",keystring1); \n			\n			printf(\"Input ending vertex's key: \");\n	        fgets(input,sizeof(input),stdin);\n			input[strlen(input) - 1] = '\\0';  \n			sscanf(input,\"%s\",keystring2);\n			\n			retval = printShortestPath(keystring1, keystring2);\n			if (retval == -1)\n				{\n				printf(\"Error: at least one of the keys is invalid\\n\");\n				}\n			else if (retval == -2)\n				{\n				printf(\"Error: the graph is undirected\\n\");\n				}\n			else if (retval == -3)\n				{\n				printf(\"Vertex |%s| is not reachable from |%s|\\n\", keystring2, keystring1);\n				}\n			else\n				{\n				printf(\"total cost: %d\\n\", retval);\n				}\n		break;\n		\n	    case 9:   /* do Prim's algorithm to find min spanning tree */\n	        printf(\"What vertex should be the root? \");\n	        fgets(input,sizeof(input),stdin);\n		input[strlen(input) - 1] = '\\0';  \n		sscanf(input,\"%s\",keystring1);  \n		retval = printMinSpanningTreePrim(keystring1);\n		if (retval == -1)\n		    { \n		    printf(\">>> Vertex |%s| does not exist\\n\",\n			   keystring1);\n		    }\n                else if (retval == -2)\n		    {\n		    printf(\">>> Graph is directed. Cannot calculate min spanning tree\\n\");\n		    }\n                else\n		    {\n		    printf(\"Spanning tree sum of edge weights is %d\\n\",\n			     retval);\n		    }\n		break;\n\n	    default:\n	        printf(\"Invalid option - we should never get here!\\n\");\n	}  /* end switch  */\n	choice = getMenuOption();\n    }      /* end while loop */\n\n/* exit here - we're done */\n}\n\n\n/* Show menu of options. Return the user-selected option\n */\nint getMenuOption()\n{\n    char input[32];\n    int option = -1;\n    while (option < 0)\n       {\n       printf(\"\\nGraph Tester options:\\n\");\n       printf(\"  1 - Create, or empty and recreate, graph\\n\");\n       printf(\"  2 - Insert a vertex into the graph\\n\");\n       printf(\"  3 - Insert an edge into the graph\\n\");\n       printf(\"  4 - Remove a vertex from the graph\\n\");\n       printf(\"  5 - Remove an edge from the graph\\n\");\n       printf(\"  6 - Get adjacent vertices\\n\");\n       printf(\"  7 - Print breadth first or depth first\\n\");\n       printf(\"  8 - Print shortest path (Dijkstra's algorithm)\\n\");\n       /* printf(\"  9 - Calculate min spanning tree (Prim's algorithm)\\n\");*/\n       printf(\" 10 - Exit\\n\");\n       printf(\"Which option? \");\n       fgets(input,sizeof(input),stdin);\n       sscanf(input,\"%d\",&option);\n       if ((option > 10) || (option < 1) || (option == 9))\n           {\n	   printf(\"Invalid selection - choose 1 to 10\\n\");\n	   option = -1;\n	   }\n       }\n    printf(\"\\n\");\n    return option;\n}\n\n",
+			"file": "/C/Users/Oras/AppData/Local/Temp/7zO8653151A/networkTester.c",
+			"file_size": 10378,
+			"file_write_time": 131026684953001227,
+			"settings":
+			{
+				"buffer_size": 10378,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"syn c",
+				"Set Syntax: C"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"project",
+				"Project: Refresh Folders"
+			],
+			[
+				"pandoc",
+				"Pandoc"
+			],
+			[
+				"pan",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pand",
+				"Pandoc"
+			],
+			[
+				"syn mark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"syn mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syn man",
+				"Set Syntax: Mediawiki NG"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livere",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"pakc",
+				"Package Control: Remove Package"
+			],
+			[
+				"pandoc:",
+				"Pandoc: Convert a Pandoc file to PDF"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pando",
+				"Pandoc"
+			],
+			[
+				"syn ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdo ex",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"date",
+				"InsertDate: Show Panel"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown ex",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"inser",
+				"InsertDate: Open README"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"syn mar ex",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"markdo e",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"syn late",
+				"Set Syntax: LaTeXing"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"syn markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"livereload",
+				"Snippet: Create new LiveReload plugin"
+			],
+			[
+				"syn ja",
+				"Set Syntax: Java"
+			],
+			[
+				"syn py",
+				"Set Syntax: Python"
+			],
+			[
+				"con",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"beauti",
+				"Javascript Beautify"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"syn mat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"build",
+				"Build With: LaTeX"
+			],
+			[
+				"chec",
+				"LaTeXing: Check System"
+			],
+			[
+				"che",
+				"LaTeXing: Check System"
+			],
+			[
+				"latextols",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"snippet latex",
+				"Snippet: LaTeXing Option Dictionary"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"latex",
+				"LaTeXing: Lookup TeX Symbol"
+			],
+			[
+				"syn tex",
+				"Set Syntax: TeX"
+			],
+			[
+				"tex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"check s",
+				"LaTeXing: Check System"
+			],
+			[
+				"laa",
+				"LaTeXing: Documentation"
+			],
+			[
+				"sy c",
+				"Set Syntax: C"
+			],
+			[
+				"matla",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"reine",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"stn c",
+				"Table Editor: Set table syntax 'Pandoc' for current view"
+			],
+			[
+				"table",
+				"Table Editor: Show demo film in new scratch view"
+			],
+			[
+				"wiki ta",
+				"Mediawiker: Wiki table to Simple (for plugin TableEdit)"
+			],
+			[
+				"wiker table",
+				"Mediawiker: Wiki table to Simple (for plugin TableEdit)"
+			],
+			[
+				"wiker",
+				"Snippet: Mediawiker: Internal link"
+			],
+			[
+				"synta wi",
+				"Set Syntax: Mediawiki"
+			],
+			[
+				"wiki",
+				"Set Syntax: Mediawiki NG"
+			],
+			[
+				"syn medi",
+				"Set Syntax: Mediawiki"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"lisp",
+				"Set Syntax: Lisp"
+			],
+			[
+				"c",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"syn c++",
+				"Set Syntax: C++"
+			],
+			[
+				"sync ",
+				"Set Syntax: C"
+			],
+			[
+				"con ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"conver ",
+				"Indentation: Convert to Tabs"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls()",
+			"dir()",
+			"dir",
+			"ls",
+			";s",
+			"cd ..",
+			"cd",
+			"sublime",
+			"update",
+			"install",
+			"name",
+			"help",
+			"hepl",
+			"pandoc",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"x[\"a\"]",
+			"x[a]",
+			"x.a",
+			"x = {\"a\":1,\"b\":3}",
+			"x = {a:1,b:3}",
+			"x.length",
+			"x",
+			"s",
+			"x",
+			"e",
+			"while s!=2:",
+			"s",
+			"while s!=2",
+			"while",
+			"for ",
+			"for i in 1:10:",
+			"for i in 1:10",
+			"for",
+			"fo",
+			"x[0]",
+			"x[1]",
+			"x = [3,4]",
+			"x = [3,4,]",
+			"x=[2 3]",
+			"x",
+			"f = @(x) x+1",
+			"s*33",
+			"s+2",
+			"s",
+			"s=22",
+			"1+122",
+			"save",
+			"log",
+			"console",
+			"print(\"dddd\");",
+			"help print",
+			"print(d)",
+			"print a",
+			"printf",
+			"print",
+			"./a",
+			"./",
+			"/",
+			"./",
+			"/",
+			"cd",
+			"./",
+			"test",
+			"execute",
+			"execte",
+			"exe",
+			"run",
+			"run ",
+			"dir",
+			"dir'",
+			"ls",
+			"dir",
+			"e",
+			"man",
+			"manual",
+			"-help",
+			"help",
+			"hp",
+			"hl",
+			"h",
+			"a",
+			"f",
+			"python",
+			"help",
+			"version",
+			"1+1",
+			"1=1"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Oras/Google Drive/kmutt year 1/semester 2/CPE113/project_ bus route"
+	],
+	"file_history":
+	[
+		"/C/Users/Oras/Google Drive/kmutt year 1/semester 2/CPE113/project_ bus route/bus_route_project.sublime-project",
+		"/C/Users/Oras/AppData/Roaming/Sublime Text 3/Packages/User/Pandoc.sublime-settings",
+		"/C/Users/Oras/Google Drive/kmutt year 1/semester 2/CPE112 - discrete/CPE112 11 Mar 2016.md",
+		"/C/Users/Oras/Google Drive/kmutt year 1/semester 2/CPE113/project_ bus route/costMatrix.c",
+		"/C/Users/Oras/Google Drive/kmutt year 1/semester 2/CPE113/project_ bus route/costMatrix.h",
+		"/C/Users/Oras/Google Drive/kmutt year 1/semester 2/CPE113/project_ bus route/dataStructures.h",
+		"/C/Users/Oras/Google Drive/kmutt year 1/semester 2/CPE112 - discrete/CPE112 Homework 10 Mar 2016.md",
+		"/C/Users/Oras/Google Drive/kmutt year 1/semester 2/CHM103/homework solid.md",
+		"/C/Users/Oras/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Oras/AppData/Roaming/Sublime Text 3/Packages/Pandoc/Pandoc.sublime-settings",
+		"/C/Users/Oras/Desktop/test.html",
+		"/C/Users/Oras/Google Drive/kmutt year 1/semester 2/CPE113/lecture8.md",
+		"/C/Users/Oras/Google Drive/kmutt year 1/semester 2/mth104 8 mar 2016.md",
+		"/C/Users/Oras/Google Drive/kmutt year 1/semester 2/CPE112 - discrete/test.md",
+		"/C/Users/Oras/Google Drive/kmutt year 1/semester 2/CPE112 - discrete/CPE112 Homework 10 Mar 2016.mdown",
+		"/C/Users/Oras/AppData/Roaming/Sublime Text 3/Packages/InsertDate/README.md",
+		"/C/Users/Oras/AppData/Roaming/Sublime Text 3/Packages/InsertDate/insert_date.sublime-settings",
+		"/C/Users/Oras/AppData/Roaming/Sublime Text 3/Packages/User/insert_date.sublime-settings",
+		"/C/Users/Oras/Desktop/discretetest.html",
+		"/C/msys/1.0/home/Oras/lab8/matrixGraph.c",
+		"/C/msys/1.0/home/Oras/lab8/Makefile",
+		"/C/Users/Oras/Desktop/graphTester.c",
+		"/C/Users/Oras/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/C/Users/Oras/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/C/Users/Oras/Desktop/treeCouples.c",
+		"/C/Users/Oras/Google Drive/Jupyter/Lucky One Selector.ipynb",
+		"/D/octave-4.0.0/workspace/courseraML/machine-learning-ex2/ex2/ex2 - modified.m",
+		"/D/octave-4.0.0/workspace/courseraML/machine-learning-ex2/ex2/ex2_reg.m",
+		"/D/octave-4.0.0/workspace/courseraML/machine-learning-ex2/ex2/mapFeature.m",
+		"/C/Users/Oras/Desktop/okgo_previs.json",
+		"/D/ygopro-1.033.7-Percy/script/c10248192.lua",
+		"/D/ygopro-1.033.7-Percy/script/c11047543.lua",
+		"/C/Users/Oras/Desktop/hell_combi.py",
+		"/C/Users/Oras/Desktop/cards.cdb",
+		"/C/msys/1.0/home/Oras/lua-5.3.2/src/lua.c",
+		"/D/octave-4.0.0/workspace/courseraML/machine-learning-ex2/ex2/costFunction.m",
+		"/D/octave-4.0.0/workspace/courseraML/machine-learning-ex2/ex2/plotDecisionBoundary.m",
+		"/D/octave-4.0.0/workspace/courseraML/machine-learning-ex2/ex2/predict.m",
+		"/D/octave-4.0.0/workspace/courseraML/machine-learning-ex2/ex2/costFunctionReg.m",
+		"/D/octave-4.0.0/workspace/courseraML/machine-learning-ex2/ex2/lib/makeValidFieldName.m",
+		"/D/octave-4.0.0/workspace/courseraML/machine-learning-ex2/ex2/lib/jsonlab/loadjson.m",
+		"/C/Users/Oras/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/README.markdown",
+		"/C/msys/1.0/home/Oras/mergeSort.c",
+		"/C/Users/Oras/Desktop/LaTeX.sublime-build",
+		"/C/Users/Oras/Desktop/testChess2/testChess2.ino",
+		"/C/Users/Oras/Desktop/testChess2/a.sty",
+		"/C/Users/Oras/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Oras/AppData/Roaming/Sublime Text 3/Packages/LaTeXing/LaTeX.sublime-build",
+		"/C/Users/Oras/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXing.sublime-settings",
+		"/C/Users/Oras/AppData/Roaming/Sublime Text 3/Packages/LaTeXing/LaTeXing.sublime-settings",
+		"/C/Users/Oras/Desktop/testChess2.ino",
+		"/D/interstella_input.txt",
+		"/C/msys/1.0/home/Oras/problem3.c",
+		"/C/msys/1.0/home/Oras/testMedian.c",
+		"/C/msys/1.0/home/Oras/dungeon.c",
+		"/C/msys/1.0/home/Oras/cars.c",
+		"/D/day2problem3.c",
+		"/C/msys/1.0/home/Oras/day2problem3.c",
+		"/C/msys/1.0/home/Oras/affable_abacus_interstella_output.txt",
+		"/D/startup_input.txt",
+		"/D/p2.c",
+		"/D/p22.c",
+		"/C/msys/1.0/home/Oras/day2problem1.c",
+		"/C/msys/1.0/home/Oras/review_input.txt",
+		"/C/msys/1.0/home/Oras/interstellar_input.txt",
+		"/C/msys/1.0/home/Oras/tooeasy_input.txt",
+		"/C/msys/1.0/home/Oras/problem1.c",
+		"/C/msys/1.0/home/Oras/influencer_input.txt",
+		"/C/msys/1.0/home/Oras/looplike.c",
+		"/C/Users/Oras/Google Drive/kmutt ปี 1/LNG107/wind power in thailand.wiki",
+		"/C/msys/1.0/home/Oras/binarytree.c",
+		"/C/Users/Oras/Google Drive/kmutt ปี 1/semester 2/CPE113/Lecture1/sortdata1.txt",
+		"/C/Users/Oras/Desktop/submit.m",
+		"/C/Users/Oras/Desktop/submitWithConfiguration.m",
+		"/C/Users/Oras/AppData/Local/Temp/7zO80FA3203/submit.m",
+		"/C/Users/Oras/Desktop/test.c",
+		"/C/Users/Oras/Google Drive/kmutt ปี 1/semester 2/CPE113/Lecture1/treeSort.c",
+		"/D/test.m",
+		"/C/Users/Oras/Google Drive/kmutt ปี 1/semester 2/CPE113/Lecture1/binaryTree.h",
+		"/D/Download/Untitled spreadsheet - Sheet1.csv",
+		"/C/Users/Oras/Desktop/testChess/testChess.ino",
+		"/C/Users/Oras/Desktop/testled/testled.ino",
+		"/C/Users/Oras/Desktop/C++.tmLanguage",
+		"/C/Program Files/Sublime Text 3/Packages/C++.sublime-package",
+		"/C/Users/Oras/Desktop/C++.sublime-package",
+		"/D/Download/blocks.xml",
+		"/C/Program Files/Sublime Text 3/Packages/Regular Expressions.sublime-package",
+		"/C/Program Files/Sublime Text 3/Packages/Theme - Default.sublime-package",
+		"/C/Program Files/Sublime Text 3/Packages/Rails.sublime-package",
+		"/C/Users/Oras/Google Drive/kmutt ปี 1/Interactive Chessboard - CPE111 Project/cbMatrixSwitch/cbMatrixSwitch_modified/cbMatrixSwitch_modified.ino",
+		"/C/Users/Oras/Google Drive/kmutt ปี 1/Interactive Chessboard - CPE111 Project/cbMatrixSwitch/cbMatrixSwitch_modified/chessBoardLibrary.c",
+		"/C/Users/Oras/Desktop/cbMatrixSwitch.ino",
+		"/C/msys/1.0/home/Oras/test.c",
+		"/C/Users/Oras/Google Drive/kmutt ปี 1/Interactive Chessboard - CPE111 Project/codes/chessboard.c",
+		"/C/msys/1.0/home/Oras/test2.c",
+		"/C/Users/Oras/Desktop/testChess.ino",
+		"/C/Users/Oras/Google Drive/kmutt ปี 1/Interactive Chessboard - CPE111 Project/testChess.ino",
+		"/C/msys/1.0/home/test.c",
+		"/C/Users/Oras/Google Drive/kmutt ปี 1/Interactive Chessboard - CPE111 Project/cbMatrixSwitch/chessboardFunc.c",
+		"/C/Users/Oras/Google Drive/kmutt ปี 1/Interactive Chessboard - CPE111 Project/codes/chessboardFunc.c",
+		"/C/msys/1.0/home/Oras/sally_project_2/hotelDB.c",
+		"/C/msys/1.0/home/Oras/taxiout.txt",
+		"/C/Program Files/OpenVPN/doc/INSTALL-win32.txt",
+		"/C/Users/Oras/Downloads/taxiday.txt",
+		"/C/msys/1.0/etc/fstab.sample",
+		"/D/test.c",
+		"/C/Users/Oras/Google Drive/kmutt ปี 1/Interactive Chessboard - CPE111 Project/cbMatrixSwitch/cbMatrixSwitch_modified.ino",
+		"/C/Users/Oras/Google Drive/kmutt ปี 1/Interactive Chessboard - CPE111 Project/cbMatrixSwitch/cbMatrixSwitch.ino",
+		"/C/msys/1.0/home/test.c.txt",
+		"/C/Users/Oras/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"double",
+			"\\$",
+			"pdf",
+			"([\\{\\}])",
+			"removevtx",
+			"([\\{\\}])",
+			"^ *",
+			"vtxCount",
+			"nextvtxindex",
+			"table",
+			"^   ",
+			"Extension",
+			"table",
+			"extensions\":",
+			"extensions\"",
+			"extensions: ",
+			"extension",
+			"image",
+			"\\\\\\\\\\)",
+			"\\\\\\\\\\(",
+			"asdlfkj",
+			"main",
+			"lambda",
+			"toascii",
+			"char\\(str",
+			"char\\(",
+			"char",
+			"theta",
+			"theta/",
+			"print\\((.*?)\\)\\)",
+			">>> ",
+			"queuelength",
+			"ado",
+			"pdf",
+			"a",
+			"adobe",
+			"texlive",
+			"theme",
+			"displaybytetable",
+			"debouncingcou",
+			"correctstate",
+			"correct",
+			"correctstate",
+			"correct",
+			"correc",
+			"turnPla",
+			"turnpla",
+			"previous",
+			"laststa",
+			"\\n",
+			"printf",
+			"index",
+			"makepo",
+			"printf",
+			"\\t",
+			"(.*?)\\t(.*)\\t(.*)",
+			"อัน",
+			"แัน",
+			"อัน",
+			"(.*?)\\t.*\\t(.*)",
+			"\\t",
+			"(.*?)\\t(.*)",
+			"(.*?)\\t.*?\\t.*?\\t.*?\\t(.*)",
+			"ans =  ",
+			"ans =\\n",
+			"\\n\\n",
+			"ans =\\n",
+			"ans = ",
+			"\\n\\n",
+			"\\n",
+			"\\n\\n",
+			"tree",
+			"([\\{\\}])",
+			"));",
+			"kmitt",
+			"show h(0.*)*",
+			"0.",
+			"0(.)",
+			"(?<=h)0",
+			"\\n\\n",
+			"(.*)",
+			"beep",
+			"beeo",
+			"><",
+			"<",
+			"\\<",
+			"\\<\\>",
+			"<>",
+			"correctstate",
+			"correct",
+			"toggleerr",
+			"toggleerrp",
+			"laststate",
+			"to_eat",
+			"ledallon",
+			"leddispl",
+			"displa",
+			"leddispla",
+			"leddis",
+			"leddispla",
+			"printAl",
+			"printal",
+			"ledsho",
+			"toggle",
+			"copyby",
+			"printall",
+			"leddispla",
+			"0",
+			"returnsta",
+			"displaymove",
+			"leddisplayby",
+			"leddispla",
+			"getLedValue",
+			"getledvalue",
+			"ledOn",
+			"led",
+			"displayled",
+			"led",
+			"display",
+			"resetmove",
+			"resetLed",
+			"resetled",
+			"moveboard",
+			"ledboard",
+			"reset",
+			"displayled",
+			"displa",
+			"bytetable"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"int",
+			"",
+			"\\t\\1",
+			"",
+			"vtxCount",
+			"",
+			"$",
+			"\\1)",
+			"",
+			"queueLen",
+			" ",
+			"writerindex",
+			" ",
+			"\\1 \\3",
+			"\\1 \\2",
+			" ",
+			"\\1 \\2",
+			"\\1\\t\\2",
+			"ans = ",
+			"",
+			"\\n",
+			"",
+			"\\n",
+			",",
+			"",
+			"\\t\\1",
+			".\\1",
+			".",
+			"\\n",
+			"if display = \\1\\n[\\nshow h\\1h\\n]\\n",
+			"  gameTurn (\\1)",
+			">\\n<",
+			"<\\n>",
+			"getMoveValue",
+			"moveOn",
+			"resetMoveBoard",
+			"resetMove",
+			"moveBoard",
+			"returnStatus",
+			"changeCol",
+			"changeRow",
+			",-",
+			"-,",
+			"printf",
+			"\\t}",
+			"\\t{",
+			"newState",
+			", ",
+			"fprintf(pOut, ",
+			"fprintf"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "costMatrix.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "costMatrix.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "routing.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1825,
+								1786
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#i",
+							"mediawiker_wiki_instead_editor": false,
+							"rulers":
+							[
+								80
+							],
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 14.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "routing.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "dataStructures.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "route.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								211,
+								211
+							]
+						],
+						"settings":
+						{
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "route.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								305
+							]
+						],
+						"settings":
+						{
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Oras/AppData/Local/Temp/7zO8653151A/networkTester.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": -0.0,
+						"translation.y": 2422.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Desktop":
+	{
+		"height": 100.0
+	},
+	"output.LCDemoCascadedDevices":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"output.stino_log":
+	{
+		"height": 100.0
+	},
+	"output.testChess2":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "bus_route_project.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
